@@ -17,11 +17,11 @@ Easy To Deploy 🤗
 3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
 4) Manual Deploy To Your Repository. 
 ```
-![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
+![logo](https://te.legra.ph/file/4685122348f59466e6407.jpg)
 # Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
 
 # Report Any Error or Help Contact :
-[Channel 💬](https://t.me/TamilBots), 
-[Support ❤️](https://t.me/TamilSupport) 
+[Channel 💬](https://t.me/monuuzbot), 
+[Support ❤️](https://t.me/musicstreetgroup) 
 
-Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/iMvEtRi) 😪
+Report your problem along with your name to This Person 📲 [Monuuz🧑‍💻](https://t.me/moonuuuzking) 😪
